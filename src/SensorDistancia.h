@@ -11,7 +11,7 @@ public:
     SensorDistancia(int Sensor, boolean detectando);
     void init();
     int read();
-    
+        
 
 };
 
